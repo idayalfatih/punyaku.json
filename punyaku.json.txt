@@ -1,0 +1,6 @@
+{
+"name" : "Yadi Mulyadi",
+"email" : "idayyalfatih@gmail.com",
+"Password" : "pohodeui",
+"Description" : "Jadilah Orang Yang Mandiri Dan Berjiwa Pemberani."
+}
